@@ -4,4 +4,4 @@
 - API Key Auth
 - Token Based Auth
 
-![Sample Snippet](api-authentications.gif);
+![Sample Snippet](api-authentications.gif)
